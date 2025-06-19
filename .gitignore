@@ -1,0 +1,27 @@
+# macOS metadata files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Thumbnails
+._*
+
+# macOS folder attributes
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.fseventsd
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
+*.orig
+
+# Node projects (if applicable)
+node_modules/
+
+# Env and secret files
+.env
